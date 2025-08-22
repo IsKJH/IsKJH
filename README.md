@@ -4,9 +4,6 @@
 
   ### 성실하게 성장하는 개발자 김지한입니다
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIsKJH&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyou     
-  farm.com)
-
   </div>                                                                                                                                                                                                                            
 
   ## 🛠️ **기술 스택**
