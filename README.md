@@ -64,7 +64,7 @@
 - JWT 토큰 인증 시스템
 - 실시간 데이터 처리
 
-### **🏨 Yeogiya 여행 정보 서비스** (팀 프로젝트)
+### **🏨 Yeogiya 중간지점 찾기 ** (사이드 프로젝트)
 **기간**: 2024.11 ~ 현재  
 **역할**: Frontend, Backend 개발  
 **기술 스택**: Java + Spring Boot, TypeScript, React  
