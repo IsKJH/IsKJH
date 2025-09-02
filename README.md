@@ -1,4 +1,4 @@
-# 김지한 | Full-Stack Developer 👨‍💻
+김지한 | Full-Stack Developer 👨‍💻
 
 ##  About Me
 
