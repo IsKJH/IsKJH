@@ -193,14 +193,4 @@
 - ** 관리 편의성**: 드래그 앤 드롭 방식의 FAQ 순서 변경 기능
 - ** 성과**: 고객 문의 해결율 향상 및 CS 팀 업무 부담 경감
 
-<div align="center">
-  <h3>💬 Contact Me</h3>
-
-[![Email](https://img.shields.io/badge/Email-xelnaga456%40naver.com-red?style=for-the-badge&logo=gmail)](mailto:xelnaga456@naver.com)
-[![Phone](https://img.shields.io/badge/Phone-010--6810--5737-green?style=for-the-badge&logo=phone)](tel:010-6810-5737)
-[![GitHub](https://img.shields.io/badge/GitHub-IsKJH-black?style=for-the-badge&logo=github)](https://github.com/IsKJH)
-
-<br><br>
-
 <i>"아직 부족한 점이 많지만, 성실함과 책임감으로 팀에 기여하며 함께 성장해 나가겠습니다."</i>
-</div>
