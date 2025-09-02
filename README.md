@@ -1,11 +1,15 @@
 # 김지한 | Full-Stack Developer 👨‍💻
 
 <div align="center">
-  <img src="./김지한.png" alt="김지한 프로필" width="150" height="150" style="border-radius: 50%; border: 3px solid #4CAF50;">
+  
+  ![김지한 프로필](./김지한.png)
+  
+  *Full-Stack Developer*
   
   [![Email](https://img.shields.io/badge/Email-xelnaga456%40naver.com-red?style=flat-square&logo=gmail)](mailto:xelnaga456@naver.com)
   [![Phone](https://img.shields.io/badge/Phone-010--6810--5737-green?style=flat-square&logo=phone)](tel:010-6810-5737)
   [![GitHub](https://img.shields.io/badge/GitHub-IsKJH-black?style=flat-square&logo=github)](https://github.com/IsKJH)
+  
 </div>
 
 ---
@@ -18,7 +22,7 @@
 
 ###  핵심 가치
 -  **책임감 있는 업무 수행**
--  **지속적인 학습**  
+-  **지속적인 학습**
 -  **팀과의 협업**
 
 ---
@@ -28,7 +32,7 @@
 ### Frontend/Cross-platform Developer @ 인성데이타
 **2023.03 - 2024.11 (1년 8개월)**
 
-####  대구로 사장님 사이트 레거시 리뉴얼 프로젝트 
+####  대구로 사장님 사이트 레거시 리뉴얼 프로젝트
 *2023.06 ~ 2024.01*
 
 ```
@@ -38,7 +42,7 @@
  암호화 통신 및 JWT 기반 인증 시스템 구축
 ```
 
-####  대구로 관리자 시스템 개발 및 운영 
+####  대구로 관리자 시스템 개발 및 운영
 *2023.03 ~ 2024.11*
 
 ```
@@ -167,7 +171,7 @@
 - ** 기술 스택**: Flutter Web, Fluent UI, GetX, 암호화 통신, JWT 인증
 - ** 성과**: 레거시 시스템 성공적 교체 및 사용자 만족도 향상
 
-###  대구로 통합 관리 플랫폼
+###  대구로 관리자 시스템 통합 플랫폼
 *대구시 공공 O2O 서비스의 통합 관리 시스템*
 
 ####  기술적 도전과 해결 과정
@@ -240,12 +244,12 @@
 
 <div align="center">
   <h3>💬 Contact Me</h3>
-  
-  [![Email](https://img.shields.io/badge/Email-xelnaga456%40naver.com-red?style=for-the-badge&logo=gmail)](mailto:xelnaga456@naver.com)
-  [![Phone](https://img.shields.io/badge/Phone-010--6810--5737-green?style=for-the-badge&logo=phone)](tel:010-6810-5737)
-  [![GitHub](https://img.shields.io/badge/GitHub-IsKJH-black?style=for-the-badge&logo=github)](https://github.com/IsKJH)
-  
-  <br><br>
-  
-  <i>"아직 부족한 점이 많지만, 성실함과 책임감으로 팀에 기여하며 함께 성장해 나가겠습니다."</i>
+
+[![Email](https://img.shields.io/badge/Email-xelnaga456%40naver.com-red?style=for-the-badge&logo=gmail)](mailto:xelnaga456@naver.com)
+[![Phone](https://img.shields.io/badge/Phone-010--6810--5737-green?style=for-the-badge&logo=phone)](tel:010-6810-5737)
+[![GitHub](https://img.shields.io/badge/GitHub-IsKJH-black?style=for-the-badge&logo=github)](https://github.com/IsKJH)
+
+<br><br>
+
+<i>"아직 부족한 점이 많지만, 성실함과 책임감으로 팀에 기여하며 함께 성장해 나가겠습니다."</i>
 </div>
