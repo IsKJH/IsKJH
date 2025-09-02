@@ -1,17 +1,5 @@
 # 김지한 | Full-Stack Developer 👨‍💻
 
-<div align="center">
-  
-  ![김지한 프로필](./김지한.png)
-  
-  *Full-Stack Developer*
-  
-  [![Email](https://img.shields.io/badge/Email-xelnaga456%40naver.com-red?style=flat-square&logo=gmail)](mailto:xelnaga456@naver.com)
-  [![Phone](https://img.shields.io/badge/Phone-010--6810--5737-green?style=flat-square&logo=phone)](tel:010-6810-5737)
-  [![GitHub](https://img.shields.io/badge/GitHub-IsKJH-black?style=flat-square&logo=github)](https://github.com/IsKJH)
-  
-</div>
-
 ---
 
 ##  About Me
