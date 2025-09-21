@@ -50,13 +50,13 @@
 **역할**: Backend 개발 (Spring Boot 학습 적용)
 **기술**: Java, Spring Boot, JPA, MySQL, 카카오맵 API
 
-- **Spring Boot 백엔드 시스템**: 카카오맵 API 연동을 통한 위치 기반 서비스 구현
-- **알고리즘 개발**: 다중 사용자 출발지 기반 최적 중간지점 계산 알고리즘 개발
-- **3계층 아키텍처**: Controller-Service-Repository 기반 체계적 시스템 설계
+- **위치 기반 서비스**: 카카오맵 API 연동을 통한 장소 검색 및 좌표 처리
+- **중간지점 계산**: 다중 사용자 출발지 좌표를 이용한 중심점 계산 로직 구현
+- **Spring Boot 구조**: Controller-Service-Repository 패턴 학습 및 적용
 - **데이터 관리**: JPA Entity 관계 매핑 및 MySQL 테이블 설계
 - **RESTful API**: 위치 정보 저장/조회 및 모임 관리 API 구현
-- **팀 협업**: Git 협업 워크플로우 및 코드 리뷰 참여  
-
+- **팀 협업**: Git 협업 워크플로우 및 코드 리뷰 참여
+- 
 ---
 
 ## Skills
