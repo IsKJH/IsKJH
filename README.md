@@ -46,6 +46,8 @@
 
 ---
 
+### 사이드프로젝트 
+
 ## Yeogiya | 친구 약속 중간지점 찾기 서비스 (팀 프로젝트)
 **역할**: Backend 개발 (Spring Boot 학습 적용)
 **기술**: Java, Spring Boot, JPA, MySQL, 카카오맵 API
