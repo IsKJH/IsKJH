@@ -48,19 +48,18 @@
 
 ### 사이드프로젝트 
 
-## Yeogiya | 친구 약속 중간지점 찾기 서비스 (팀 프로젝트)
-**역할**: Backend 개발 (Spring Boot 학습 적용)
-**기술**: Java, Spring Boot, JPA, MySQL, 카카오맵 API
+## MyRealPet | 반려동물 종합 관리 플랫폼 (팀 프로젝트)
+**역할**: Full-stack 개발
+**기간**: 2024.09 ~ 2024.10
+**기술**: Spring Boot, React, TypeScript, MySQL, Redis, Docker, AWS, GitHub Actions
 
-- **위치 기반 서비스**: 카카오맵 API 연동을 통한 장소 검색 및 좌표 처리
-- **중간지점 계산**: 다중 사용자 출발지 좌표를 이용한 중심점 계산 로직 구현
-- **Spring Boot 구조**: Controller-Service-Repository 패턴 학습 및 적용
-- **데이터 관리**: JPA Entity 관계 매핑 및 MySQL 테이블 설계
-- **RESTful API**: 위치 정보 저장/조회 및 모임 관리 API 구현
-- **팀 협업**: Git 협업 워크플로우 및 코드 리뷰 참여
-- 
----
-
+- **멀티모듈 마이크로서비스**: 6개 독립 서비스 설계 및 Database per Service 패턴 적용으로 장애 격리
+- **AI 통합**: OpenAI GPT-4 Vision API로 진료 영수증 자동 분석 및 건강 리포트 생성
+- **인증 시스템**: 카카오 OAuth 2.0 소셜 로그인, Redis 기반 세션 관리, UUID 토큰 인증
+- **외부 API 연동**: 카카오맵 API WebClient 비동기 호출, 산책 경로 추적 및 장소 검색
+- **클라우드 배포**: AWS S3 정적 호스팅(Frontend), EC2 Docker 컨테이너 배포(Backend)
+- **CI/CD 자동화**: GitHub Actions Self-hosted Runner로 빌드/배포 파이프라인 구축, 배포 시간 80% 단축
+  
 ## Skills
 
 **Frontend**
@@ -82,7 +81,7 @@
 
 ## Education
 - **영남대학교** 식품경제외식학과 (2016.03 ~ 2022.09, 졸업)
-- **플레이데이터 평생교육원**: 풀스택 백엔드 개발자 양성 과정 (2025.04 ~ 2025.10, 진행 중)
+- **플레이데이터 평생교육원**: 풀스택 백엔드 개발자 양성 과정 (2025.04 ~ 2025.10)
 - **예담직업전문학교**: Java기반 웹 개발자 양성과정 B (2022.08 ~ 2023.02)
 
 ---
